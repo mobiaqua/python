@@ -30166,7 +30166,7 @@ printf %s "checking for stdlib extension module _tkinter... " >&6; }
         if test "$py_cv_module__tkinter" != "n/a"
 then :
 
-    if true
+    if false
 then :
   if test "$have_tcltk" = "yes"
 then :
